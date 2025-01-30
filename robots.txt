@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /
+Noindex: /
+Crawl-delay: 3600
+
+User-agent: Googlebot
+Disallow: /
+Noindex: /
+
+User-agent: Bingbot
+Disallow: /
+Noindex: /
+
+User-agent: Yandex
+Disallow: /
+Noindex: /
+
+User-agent: DuckDuckBot
+Disallow: /
+Noindex: /
+
+Sitemap: https://www.appforge-tech.fr/sitemap.xml
